@@ -1,0 +1,5 @@
+gspread==5.7.2
+pandas==1.5.3
+plotly==5.13.0
+streamlit==1.18.0
+streamlit_option_menu==0.3.2
